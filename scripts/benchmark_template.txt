@@ -1,0 +1,14 @@
+Prompt 1:
+Write a Python function that parses a log file and returns the top 10 most frequent error messages.
+
+Prompt 2:
+Refactor this code for readability and performance.
+
+Prompt 3:
+Explain what this regex does and rewrite it in a safer way.
+
+Prompt 4:
+Generate a small FastAPI endpoint with input validation and error handling.
+
+Prompt 5:
+Given a traceback, identify the most likely root cause and suggest a fix.
