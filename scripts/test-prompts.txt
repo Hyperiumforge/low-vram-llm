@@ -1,0 +1,5 @@
+1. Write a Python script that renames files by date.
+2. Debug a JSON parsing error from malformed input.
+3. Explain why a recursive function causes stack overflow.
+4. Generate a SQL query for monthly active users.
+5. Build a simple Bash backup script.
